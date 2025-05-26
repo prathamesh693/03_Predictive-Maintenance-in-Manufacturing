@@ -1,6 +1,0 @@
-4. Predictive Maintenance in Manufacturing
-Tech Stack:
-ML: Scikit-learn, XGBoost, Random Forest
-EDA: Pandas, Matplotlib, Seaborn
-Time-Series: ARIMA, Prophet
-Deployment: Streamlit
