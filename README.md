@@ -1,5 +1,5 @@
-##🏭 Predictive Maintenance in Manufacturing
-📌 Project Overview
+##🏭 **Predictive Maintenance in Manufacturing**
+### 📌 Project Overview
 This project is focused on predicting machine failures in a manufacturing setting using classification models trained on sensor data. The dataset includes features such as tool wear, rotational speed, torque, and temperatures, and the goal is to classify the type of failure a machine is likely to experience. By anticipating equipment issues before they occur, this system helps reduce unplanned downtime, improve operational efficiency, and cut maintenance costs.
 
 ## Table of Contents
@@ -87,4 +87,4 @@ Kaggle - Machine Predictive Maintenance Classification
 
 ### Connect With Me 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/prathamesh693)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-78b02523a/) [![GitHub](https://img.shields.io/badge/GitHub-Prathamesh%20Jadhav-2b3137?logo=github)](https://github.com/prathamesh693)**
