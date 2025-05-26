@@ -1,0 +1,6 @@
+RandomForest -> Accuracy: 0.9978, Macro F1-score: 0.4995
+XGBoost -> Accuracy: 0.9978, Macro F1-score: 0.4995
+LogisticRegression -> Accuracy: 0.9978, Macro F1-score: 0.4995
+RandomForest -> Accuracy: 0.9978, Macro F1-score: 0.4995
+XGBoost -> Accuracy: 0.9978, Macro F1-score: 0.4995
+LogisticRegression -> Accuracy: 0.9978, Macro F1-score: 0.4995
