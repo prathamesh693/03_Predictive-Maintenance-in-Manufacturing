@@ -1,4 +1,4 @@
-####**🏭Predictive Maintenance in Manufacturing**
+### 🏭Predictive Maintenance in Manufacturing
 ### 📌 Project Overview
 This project is focused on predicting machine failures in a manufacturing setting using classification models trained on sensor data. The dataset includes features such as tool wear, rotational speed, torque, and temperatures, and the goal is to classify the type of failure a machine is likely to experience. By anticipating equipment issues before they occur, this system helps reduce unplanned downtime, improve operational efficiency, and cut maintenance costs.
 
