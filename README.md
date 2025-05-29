@@ -54,26 +54,20 @@ Kaggle - Machine Predictive Maintenance Classification
 ---
 
 ## Tools and Technologies
-
-<!-- Programming Languages & Core Libraries -->
+<P>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" />
-
-<!-- Machine Learning Models -->
 <img src="https://img.shields.io/badge/XGBoost-EC4D28?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge&logo=tree&logoColor=white" />
-
-<!-- IDEs & Tools -->
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder&logoColor=white" />
-
-<!-- APIs & Version Control -->
 <img src="https://img.shields.io/badge/Kaggle_API-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
